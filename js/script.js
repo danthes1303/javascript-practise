@@ -37,5 +37,4 @@ if (personalMovieDB.count > 0 && personalMovieDB.count < 10) {
 } else {
     alert('Произошла ошибка')
 };
-
 console.log(personalMovieDB);
